@@ -9,7 +9,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 ## Tools Used:
 
 - SQL
-- PGADMIN
+- PGADMIN4
 
 ## Findings
 

@@ -11,6 +11,10 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 - SQL
 - PGADMIN
 
-#Findings
+## Findings
+
 ![tot](https://user-images.githubusercontent.com/115853964/230268146-4445f3b2-904d-418d-ad4f-f7fa82d166ba.png)
 ![tot1](https://user-images.githubusercontent.com/115853964/230268193-0927ed5b-367a-4292-a550-8c3d02ba031b.png)
+
+#Summary 
+When it comes to tracking customer reviews there are a lot of variables that go into play of the data, although those in with a 5 star are slightly above 50% there is incline for bias in that direction but without more insights it could be very hard to tell. For this datasets sake there is a slight bias but being so close to a true 50 it is hard to make that determination. In this case for future analysis I beleive it is important to get more variable points and crossing information over itself to find the true rate of bias. 
